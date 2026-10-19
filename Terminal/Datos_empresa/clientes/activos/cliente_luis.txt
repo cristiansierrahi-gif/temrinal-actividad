@@ -1,0 +1,4 @@
+Nombre: Luis Orozco.
+Empresa: Panadería Aurora.
+Estado: activo.
+Correo: luis.o@example.com

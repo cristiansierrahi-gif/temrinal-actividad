@@ -1,0 +1,5 @@
+Pendientes:
+
+-Crear carpetas y subcarpetas de pedidos
+-Optimizar sistema
+-Crear backups

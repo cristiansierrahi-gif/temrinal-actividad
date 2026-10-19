@@ -1,0 +1,4 @@
+Nombre: Marta Correa.
+Empresa: Panadería Aurora.
+Estado: inactivo.
+Correo: marta@example.com

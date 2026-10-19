@@ -1,0 +1,4 @@
+Número: 001.
+Cliente: Luis Orozco.
+Valor: 500000.
+Estado: paga.
